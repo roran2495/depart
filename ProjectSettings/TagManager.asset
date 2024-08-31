@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Die
+  - Ground
+  - Ball
+  - Bark
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: back
+    uniqueID: 2029053279
+    locked: 0
+  - name: front
+    uniqueID: 997832711
+    locked: 0
+  - name: character
+    uniqueID: 3239828143
+    locked: 0
+  - name: front2
+    uniqueID: 2828058639
+    locked: 0
+  - name: menu
+    uniqueID: 3846088099
+    locked: 0
